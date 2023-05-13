@@ -1,5 +1,6 @@
 # Garudaku-News-App
 Garudaku Frontend Test
+- [Live Preview](https://garudaku-news.web.app/)
 
 server
 ```sh
